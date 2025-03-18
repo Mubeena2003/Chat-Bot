@@ -65,8 +65,10 @@ chatbot/
    - `.msg-from-chatbot`
 
 ## Screenshots
-*Include relevant screenshots of the chatbot interface.*
+
 ![Image](https://github.com/user-attachments/assets/41175176-ca93-49df-8c71-7e4f3cff7a95)
+- *Include relevant screenshots of the chatbot interface.*
+
 
 
 
